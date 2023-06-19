@@ -1,11 +1,11 @@
-About r-catencoders
-===================
+About r-catencoders-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catencoders-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CatEncoders
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catencoders-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains some commonly used categorical variable encoders, such as 'LabelEncoder' and 'OneHotEncoder'. Inspired by the encoders implemented in Python 'sklearn.preprocessing' package (see <http://scikit-learn.org/stable/modules/preprocessing.html>).
 
